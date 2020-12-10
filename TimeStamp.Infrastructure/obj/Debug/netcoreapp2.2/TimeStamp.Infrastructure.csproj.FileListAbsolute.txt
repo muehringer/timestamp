@@ -1,0 +1,17 @@
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\Template.Infrastructure\bin\Debug\netcoreapp2.2\TimeStamp.Infrastructure.deps.json
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\Template.Infrastructure\bin\Debug\netcoreapp2.2\TimeStamp.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\Template.Infrastructure\bin\Debug\netcoreapp2.2\TimeStamp.Infrastructure.pdb
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\Template.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\Template.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\Template.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\Template.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\Template.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\Template.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.pdb
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\TimeStamp.Infrastructure\bin\Debug\netcoreapp2.2\TimeStamp.Infrastructure.deps.json
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\TimeStamp.Infrastructure\bin\Debug\netcoreapp2.2\TimeStamp.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\TimeStamp.Infrastructure\bin\Debug\netcoreapp2.2\TimeStamp.Infrastructure.pdb
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\TimeStamp.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\TimeStamp.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\TimeStamp.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\TimeStamp.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\PowerIt\TimeStamp\TimeStamp.Infrastructure\obj\Debug\netcoreapp2.2\TimeStamp.Infrastructure.pdb
